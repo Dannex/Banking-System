@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1414226643 source:c:\users\accer\desktop\banking system\dannex banking.c
+	<stdio.h>
+
+1421768855 source:d:\programming\banking system\dannex banking.c
+	<stdio.h>
+	<stdlib.h>
+
